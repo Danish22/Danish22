@@ -1,4 +1,4 @@
-Hi 👋 My name is Danish Dewani
+Hi 👋 I am Danish Dewani
 ==============================
 
 Web Developer
@@ -6,8 +6,8 @@ Web Developer
 
 A LAMP Developer with 6+ years of experience in working with multiple startups and companies with vast domains such as CSR Agency, Edu-Tech, Media-Tech Startup, Travel & Tourism industry,Television Channels, Newspaper Company, Event Management Companies, Real-Estate leasing, Real-Estate Selling, Hospitality, Coworking Offices, Fashion Accessories, Fine Jewellery, NGO etc. Have a deep interest in planning, preparing and executing tech and other types of products. From idealization to designing to packaging, I love to be involved and lead them.
 
-*   🌍  I'm based in Kota, Rajasthan
-*   ✉️  You can contact me at [danishdewanirbt@gmail.com](mailto:danishdewanirbt@gmail.com)
+*   🌍  I'm based in Kota, Rajasthan, India
+*   ✉️  You can contact me at [Email Id 1](mailto:danishdewanirbt@gmail.com) [EmailId 2](mailto:danish.dewani@gmail.com)
 *   🧠  I'm learning MERN Stack
 *   🤝  I'm open to collaborating on Open source Projects and Innovative Ideas
 
