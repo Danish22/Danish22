@@ -3,8 +3,15 @@ Hi 👋 I am Danish Dewani
 
 Web Developer
 -------------
+Seasoned Web Developer Transitioning into AI | 9+ Years of Cross-Industry Experience.
 
-A LAMP Developer with 6+ years of experience in working with multiple startups and companies with vast domains such as CSR Agency, Edu-Tech, Media-Tech Startup, Travel & Tourism industry,Television Channels, Newspaper Company, Event Management Companies, Real-Estate leasing, Real-Estate Selling, Hospitality, Coworking Offices, Fashion Accessories, Fine Jewellery, NGO etc. Have a deep interest in planning, preparing and executing tech and other types of products. From idealization to designing to packaging, I love to be involved and lead them.
+With over nine years of experience as a Web Developer, I am now expanding my horizons into the dynamic field of Artificial Intelligence. My career has allowed me to collaborate with a diverse range of startups and companies across sectors including CSR Agencies, EdTech, MediaTech, Travel & Tourism, Telecommunications, NewsTech, Event Management, Real Estate, Hospitality, Coworking Spaces, Fashion Accessories, Fine Jewellery, and NGOs.
+
+My expertise extends beyond technical proficiency; I'm passionate about the entire digital product development journey. From initial ideation and design to final packaging and release, I thrive in guiding projects through each critical phase. Leading and contributing to innovative and diverse endeavours is immensely rewarding for me.
+
+While not actively seeking new roles, I'm open to engaging and challenging full-time opportunities in India (hybrid) or globally (remote). I am particularly interested in positions such as Product Owner, Product Manager, or similar roles that align with my experience and aspirations.
+
+For a detailed view of my professional journey or to get in touch, please visit my website or email me at hello@danishdewani.in.
 
 *   🌍  I'm based in Kota, Rajasthan, India
 *   ✉️  You can contact me at [Email Id 1](mailto:danishdewanirbt@gmail.com) [Email Id 2](mailto:danish.dewani@gmail.com)
